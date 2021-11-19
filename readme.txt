@@ -1,0 +1,1 @@
+This repository will be used for trying out git rebase and get a hands on git
