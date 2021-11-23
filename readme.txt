@@ -5,4 +5,4 @@ Step 3: Add new commit to main branch
 Step 4: Repeat these steps because we need to understand rebase and pull request and Stash operation helps to save local changes temporarily without commit
 Step 5: Pop your stash changes and apply
 Step 6: Create pull request for the pushed branch and merge pull request
-Step 7: Add commits on both branches and rebase the main branch onto feature
+Step 7: Rebasing feature on top of main branch, this should help understand the tree
