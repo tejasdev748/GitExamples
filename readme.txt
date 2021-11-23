@@ -7,3 +7,4 @@ Step 5: Pop your stash changes and apply
 Step 6: Create pull request for the pushed branch and merge pull request
 Step 7: Rebasing feature on top of main branch
 Step 8: Merge
+Step 9: Make commit inline with the branch from which new dev/feature branch created
