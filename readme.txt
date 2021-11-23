@@ -6,3 +6,4 @@ Step 4: Repeat these steps because we need to understand rebase and pull request
 Step 5: Pop your stash changes and apply
 Step 6: Create pull request for the pushed branch and merge pull request
 Step 7: Rebasing feature on top of main branch, this should help understand the tree
+Step 8: Rebase and merge
